@@ -1,8 +1,8 @@
 {
-  "version": "5.0.0",
-  "lib_url": "https://github.com/MEMEKaja/Spaces/releases/download/Main4/libaudio_enc.so",
-  "size": 1073152,
-  "sha256": "3361e4ffb2f17395bb7ec1cff06b0794dd455d1babf95d7efe513f502be53b88",
-  "min_app_version": 5,
+  "version": "6.0.0",
+  "lib_url": "https://github.com/MEMEKaja/Spaces/releases/download/Main5/libaudio_enc.so",
+  "size": 1040384,
+  "sha256": "5f6106cf106b20c55faeaeb71655b341d29073c4e6c67f76602b8e1f119da5d9",
+  "min_app_version": 6,
   "Status_Maintenace": false
 }
